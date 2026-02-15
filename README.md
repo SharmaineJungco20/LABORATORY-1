@@ -3,7 +3,7 @@
 # Declare and initialize variables
 name = "Sharmaine Jungco"
 age = 19
-address = " Olok, Lauan, Antique"
+address = " Oloc, Laua-an, Antique"
 birthdate = "April 20, 2006"
 nationality = "Filipino"
 civil_status = "Single"
